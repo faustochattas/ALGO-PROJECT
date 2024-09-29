@@ -1,0 +1,13 @@
+{
+    "ip" : "192.168.1." ,
+    "port": 8010,
+    "type": "GENERICA",
+    "unit_work_time": 250,
+    "ip_kernel": "192.168.1.",
+    "port_kernel": 8001,
+    "ip_memory": "192.168.1.",
+    "port_memory": 8002,
+    "dialfs_path": "/home/utnso/dialfs",
+    "dialfs_block_size": 64,
+    "dialfs_block_count": 1024
+}
