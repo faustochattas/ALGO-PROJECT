@@ -1,6 +1,6 @@
 # A.L.G.O-TP-GO
 
-Este repositorio contiene el código fuente y los archivos relacionados con el trabajo práctico de Sistemas Operativos, implementado en el lenguaje de programación Go. El proyecto está diseñado para simular y demostrar conceptos fundamentales de sistemas operativos.
+Este repositorio contiene el código fuente y los archivos relacionados con el proyecto, Sistemas Operativo, implementado en el lenguaje de programación Go. El proyecto está diseñado para simular y demostrar conceptos fundamentales de sistemas operativos.
 
 [Enunciado A.L.G.O](https://docs.google.com/document/d/1w0PK_ZCUHsvGrVER_rKW7HkqLjHdkC6H0IBsmHUqhS4/edit)
 
@@ -12,7 +12,6 @@ Este repositorio contiene el código fuente y los archivos relacionados con el t
 Instrucciones de instalacion: 
 
 ```terminal
-> git clone https://github.com/adriangilt/A.L.G.O-TP-GO.git
 > cd A.L.G.O-TP-GO/scripts
 > ./build_modulos.sh
 ```
@@ -40,7 +39,7 @@ Por ultimo ejecutar pruebas. Por ejemplo:
 
 Espero que les sirva como guia y cualquier tipo de contribucion es bienvenida.
 
-#### Aclaración: Esta es solo una de las diferentes formas en las que se puede desarrollar este TP.
+
 
  
 
